@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n buoy
+web: bin/hubot -a slack -n slackbot
