@@ -1,5 +1,5 @@
 {
-  "name": "hosted-hubot",
+  "name": "buoy",
   "version": "2.7.1",
   "private": true,
   "author": "GitHub Inc.",
@@ -9,7 +9,7 @@
     "campfire",
     "bot"
   ],
-  "description": "A simple helpful robot for your Company",
+  "description": "Linked by Air's 'buoy' bot.",
   "licenses": [
     {
       "type": "MIT",
